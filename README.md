@@ -1,11 +1,12 @@
 # HTML
 HTML BÁSICO
 
-<!DOCTYPE html>
-<html lang="pt-br">
+<!DOCTYPE html
+
 <head>
+<html lang="pt-br">
 <meta charset="utf-8">
-<title>Exemplos de cabeçalhos:</title>
+  <title>Exemplos de cabeçalhos:</title></head>
 
 <body>
 <h1>Header 1 </h1>
